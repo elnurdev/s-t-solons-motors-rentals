@@ -1,0 +1,57 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.box {
+  width: 100%;
+  height: 350px;
+  display: flex;
+}
+.box .left {
+  width: 411px;
+  padding: 40px 0 0 80px;
+  background: url(./../img/jonathan-petit-unsplash.png);
+  color: #fff;
+}
+.box .left .title {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24.51px;
+  letter-spacing: 0.06em;
+}
+.box .left .subtitle {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+  padding: 15px 0 25px 0;
+}
+.box .left .telNum {
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 29px;
+  letter-spacing: 0.05em;
+  margin-bottom: 25px;
+}
+.box .left .link {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+  text-decoration: none;
+  color: #fff;
+}
+.box .left .icons {
+  margin-top: 53px;
+}
+.box .left .icons .icon {
+  margin-right: 20px;
+}
+.box .map {
+  width: 80%;
+  height: 350px;
+}/*# sourceMappingURL=map.css.map */
