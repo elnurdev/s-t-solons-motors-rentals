@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/s-t-solons-motors-rentals/static/css/main.aa12938f.css",
+    "main.js": "/s-t-solons-motors-rentals/static/js/main.8f08a244.js",
+    "static/media/Квадратцикл.png": "/s-t-solons-motors-rentals/static/media/Квадратцикл.1b9fcdfddc6aa47d6be2.png",
+    "static/media/jonathan-petit-unsplash.png": "/s-t-solons-motors-rentals/static/media/jonathan-petit-unsplash.f563c335cb60c01a26d8.png",
+    "static/media/Фото.png": "/s-t-solons-motors-rentals/static/media/Фото.34e3c05635e13398a658.png",
+    "static/media/logo.svg": "/s-t-solons-motors-rentals/static/media/logo.5224e6919f3f0962e96f04772db19316.svg",
+    "static/media/calendar.svg": "/s-t-solons-motors-rentals/static/media/calendar.55d3aca014bcfa14663989993c8d874e.svg",
+    "static/media/money.svg": "/s-t-solons-motors-rentals/static/media/money.4aaf069d139b2c44d8d6991ef7c4dae1.svg",
+    "static/media/wall-clock.svg": "/s-t-solons-motors-rentals/static/media/wall-clock.43b11e526e81e4f48f44287837669173.svg",
+    "static/media/twitter.svg": "/s-t-solons-motors-rentals/static/media/twitter.b9e746a0fa3d9d2a9a82f75ac4125c99.svg",
+    "index.html": "/s-t-solons-motors-rentals/index.html",
+    "static/media/facebook.svg": "/s-t-solons-motors-rentals/static/media/facebook.4e58dfe5bc09799812d43b7fc9998234.svg",
+    "static/media/Arrow 2 (Stroke).svg": "/s-t-solons-motors-rentals/static/media/Arrow 2 (Stroke).bd7fb47466a443c57d4f17e7dc5fc6d0.svg",
+    "static/media/Arrow 1.svg": "/s-t-solons-motors-rentals/static/media/Arrow 1.e10d0c15c22d1806b203d6208c3c7110.svg",
+    "main.aa12938f.css.map": "/s-t-solons-motors-rentals/static/css/main.aa12938f.css.map",
+    "main.8f08a244.js.map": "/s-t-solons-motors-rentals/static/js/main.8f08a244.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa12938f.css",
+    "static/js/main.8f08a244.js"
+  ]
+}
